@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P2P</string>
+    <string name="login">登录</string>
+    <string name="login_tip">局域网聊天</string>
+    <string name="scan_device_ing">正在扫描局域网中的设备</string>
+    <string name="search_device">搜索对等方</string>
+    <string name="loadingPeersInfo">加载成员信息</string>
+    <string name="tip_none_peers">暂时没有其他成员哦！</string>
+    <string name="send">发送</string>
+</resources>
